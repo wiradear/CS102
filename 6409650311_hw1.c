@@ -1,7 +1,7 @@
 #include <stdio.h>
-//6409650311
-//WIRAKARN PONPRASERD
-//find max min form the given arrey
+
+/*find max min form the given arrey
+-----hwweek12-----*/
 main()
 {
     float temperatures[7]={34,32,35,29,30,33,32};
